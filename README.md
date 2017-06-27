@@ -6,3 +6,5 @@ Timely is a time series database application that provides secure access to time
 
 [li]: http://img.shields.io/badge/license-ASL-blue.svg
 [ll]: https://www.apache.org/licenses/LICENSE-2.0
+
+For my new release
